@@ -1,0 +1,8 @@
+{
+    "name": "holla-app-gems-hack-ios/holla-app-gems-hack-ios",
+    "description": "HOLLA Mod APK Unlimited Coins-Gems-Money Download HOLLA mod apk download with Unlimited Coins, Gems, Money and all opened. Presently appreciate most recent variant by Find APK.",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
+}
